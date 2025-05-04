@@ -1,17 +1,13 @@
-## Hello World!
-My name is TamaFawx!
+<h1 align=center>Hi 👋🏼, I'm Tama</h1>
 
-<!--
-**tamafawx/tamafawx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/Check_my_personal%2Fwork_account_here_(%40priatmanas)-%23181717?style=for-the-badge&logo=github&logoSize=auto
+)](https://github.io/priatmanas)
+![Tama Banner](./img/tamafawx-banner.png)
+- - -
 
-Here are some ideas to get you started:
+## About Me! 🦊
+Hewwo, I'm **Tama**! Your friendly online local fox. Welcome to my GitHub profile. I'm rarely and unactive here, I only put dump code and stuff. If you want to know... this is my furry account. Same as personal but more relax and fluffier x3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want... please check my work/personal account [priatmanas](https://github.com/priatmanas).
+
+Thank you very much, and have a fantastic day!~
