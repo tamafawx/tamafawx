@@ -1,7 +1,7 @@
 <h1 align=center>Hi 👋🏼, I'm Tama</h1>
 
 [![GitHub](https://img.shields.io/badge/Check_my_personal%2Fwork_account_here_(%40priatmanas)-%23181717?style=for-the-badge&logo=github&logoSize=auto
-)](https://github.io/priatmanas)
+)](https://github.com/priatmanas)
 ![Tama Banner](./img/tamafawx-banner.png)
 - - -
 
